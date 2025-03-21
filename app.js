@@ -32,7 +32,7 @@ let city17 = siberia
 
 
 if(Weather == 100){
-    
+    document.write()
 }
 
 
