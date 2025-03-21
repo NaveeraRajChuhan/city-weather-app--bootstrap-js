@@ -31,7 +31,7 @@ let city17 = siberia
 
 
 
-if(Weather == 100){
+if(city == karachi){
     document.write()
 }
 
